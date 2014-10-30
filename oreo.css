@@ -1,0 +1,77 @@
+body {
+    background-image: url('Homebackground.jpg');
+	color: black;
+	font-family: "helvetica";
+	font-family: "gill sans"; 
+	font-size: 10;
+}
+	
+.wrapper {
+	width: 90%;
+	background-color:;
+	Padding: 0px;
+	margin: 20px auto;
+}
+
+.content {
+	width: 576px;
+	font-family: "helvetica";
+	font-size: 14;
+	margin: 50px;
+}
+
+img {
+	max-width: 100%;
+	
+}
+
+h1 {
+	color: rgb(4, 44, 109);
+	
+}
+	
+	
+h2 {
+	background-color: black;
+	color: white;
+	display: inline-block;
+	padding: 5px;
+	
+	}
+	
+p {
+	
+}
+
+nav ul {
+	text-align: right;
+	list-style-type: none;
+	padding: 0px;
+
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+	
+
+}
+
+nav a {
+	display: block;
+	
+}
+
+
+a {
+	color: rgb(4, 44, 109);
+	Transition: all 1s;
+}
+
+a:hover {
+	color: #cccccc;
+	background-color: none;
+	Transition: all 1s;
+	border: 1px;
+	}
+	

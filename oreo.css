@@ -75,3 +75,9 @@ a:hover {
 	border: 1px;
 	}
 	
+.splash {
+	width: 576px;
+	font-family: "helvetica";
+	font-size: 14;
+	margin: 50px;
+}
